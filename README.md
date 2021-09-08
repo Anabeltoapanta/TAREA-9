@@ -42,6 +42,29 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/85134094/132509778-9ab5bcc3-7937-44c7-8779-4c319510fe3f.png)
 
+3. Un transformador ideal tiene Np =1000 vueltas y Ns = 4000 vueltas.
+
+![image](https://user-images.githubusercontent.com/85134094/132523329-a4b09761-1532-48e9-903f-59b78f24f902.png)
+
+b. Si es =100 senqt, ¿qué valor tiene ep cuando se devana como en la figura 23-7(a)?
+
+![image](https://user-images.githubusercontent.com/85134094/132523432-ae81c521-f4d6-40a2-aef0-ccaf33c7cd98.png)
+
+c. Si Es _=24 volts, ¿qué valor tiene Ep?
+
+![image](https://user-images.githubusercontent.com/85134094/132523493-e41eea40-a698-40e0-a95a-8b96a036619a.png)
+
+
+d. Si Ep = 24 V∠, ¿qué valor tiene Es cuando se devana como en la figura
+23-7(a)?
+
+![image](https://user-images.githubusercontent.com/85134094/132523564-d60d1648-ea83-4881-8a6d-1606bcd0a839.png)
+
+e. Si Ep =800 V∠, ¿qué valor tiene Es cuando se devana como en la figura
+23-7(b)?
+
+![image](https://user-images.githubusercontent.com/85134094/132523645-91df6313-041b-427a-b15b-781f1c0bb2ce.png)
+
 7.Si, para la ﬁgura 23-73, Eg = 240 V ∠ 0°, a = 0.5, e Ig = 2A ∠ 20°, determine lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/85134094/132509804-af527137-fc9e-415c-9b5f-6b439df0db8b.png)
@@ -49,6 +72,20 @@ Ing. Darwin Omar Alulema Flores
 ![image](https://user-images.githubusercontent.com/85134094/132509824-787263ee-2934-4071-b24a-8860c4d1cc56.png)
 
 ![image](https://user-images.githubusercontent.com/85134094/132509849-5d2b06d2-4c43-431e-99b2-05a028aa3934.png)
+
+9. Si, para la figura 23-73, a = 4, Ig = 4 A∠30, y ZL =6 -j8 ohm, determine
+lo siguiente:
+
+![image](https://user-images.githubusercontent.com/85134094/132523738-226b4bd8-9a64-443f-a27a-9a061dc61442.png)
+a.	VL b. Eg
+
+![image](https://user-images.githubusercontent.com/85134094/132523864-f9970d52-e968-42e2-89b4-ca3132bfade1.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132523878-922b24eb-5b3c-4872-9c7a-61c654c8688f.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/85134094/132523907-0af99d32-27d7-4e64-8c64-51da53530daa.png)
 
 **23-3 Impedancia reﬂejada**
 
