@@ -190,6 +190,8 @@ B)
 
 * Se logro calcular potencia activa, potencia reactiva y potencia aparente en sistemas de tres fases ademas de poder describir la generación del voltaje que exite en tres fases
 
+* Como podemos observar, a comparación de sistemas con una sola fase, su contra parte con 3 fases nos resulta mas factible y gasta menos recursos, llega a costar menos y tiene menos perdidas con vibraciones y ruido.
+
 **6. BIBLIOGRAFÍAS**
 
 Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)
