@@ -31,10 +31,13 @@ Adquirir conocimientos acerca de como funciona un transformador individual y su 
 
 - Objetivos específicos
 
-Calcular corrientes de un circuito con un transformador
+* Calcular corrientes de un circuito con un transformador
 
-Describir el comportamiento de la forma de onda de voltaje y corriente
+* Describir el comportamiento de la forma de onda de voltaje y corriente
 
+* Analizar circuitos trifásicos desbalanceados simples.
+
+* Esplicar el comportamiento del voltaje presente en tres fases
 
 **2. MARCO TEORICO**
 
@@ -185,7 +188,7 @@ B)
 
 **5. CONCLUSIONES**
 
-
+* Se logro calcular potencia activa, potencia reactiva y potencia aparente en sistemas de tres fases ademas de poder describir la generación del voltaje que exite en tres fases
 
 **6. BIBLIOGRAFÍAS**
 
