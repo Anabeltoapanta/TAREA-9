@@ -24,12 +24,12 @@ Ing. Darwin Omar Alulema Flores
 
 **1.OBJETIVOS**
 
-- Objetivo General
+Objetivo General
 
 Adquirir conocimientos acerca de como funciona un transformador individual y su comportamiento en un circuito
 
 
-- Objetivos específicos
+Objetivos específicos
 
 * Calcular corrientes de un circuito con un transformador
 
