@@ -32,7 +32,7 @@ Ing. Darwin Omar Alulema Flores
 
 **2. MARCO TEORICO**
 
-
+![](https://github.com/Anabeltoapanta/TAREA-9/blob/main/MARCO%20TEORICO%2024_page-0001.jpg)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
