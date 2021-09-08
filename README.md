@@ -65,6 +65,12 @@ e. Si Ep =800 V∠, ¿qué valor tiene Es cuando se devana como en la figura
 
 ![image](https://user-images.githubusercontent.com/85134094/132523645-91df6313-041b-427a-b15b-781f1c0bb2ce.png)
 
+![image](https://user-images.githubusercontent.com/85134094/132527128-0c14240e-eb1a-4175-b024-719eba92ba19.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527152-fa21eb27-c50c-4c2e-b6ab-298cba86cd1b.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527227-f840a150-9831-4d87-bf33-f911ac888db8.png)
+
 7.Si, para la ﬁgura 23-73, Eg = 240 V ∠ 0°, a = 0.5, e Ig = 2A ∠ 20°, determine lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/85134094/132509804-af527137-fc9e-415c-9b5f-6b439df0db8b.png)
@@ -87,6 +93,13 @@ B)
 
 ![image](https://user-images.githubusercontent.com/85134094/132523907-0af99d32-27d7-4e64-8c64-51da53530daa.png)
 
+![image](https://user-images.githubusercontent.com/85134094/132527255-d2f18696-71a3-4581-baff-03a811c6b93b.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527271-b332a843-0fb9-43a8-9d90-d9b87304f946.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527301-84ff6b4e-06cb-48dc-aedb-cfebd70487e2.png)
+
+
 **23-3 Impedancia reﬂejada**
 
 13.Para la ﬁgura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp = (62.5 - j125)Ω?
@@ -96,6 +109,10 @@ B)
 ![image](https://user-images.githubusercontent.com/85134094/132509897-693c19f6-f181-4928-8659-40af9289a280.png)
 
 **23-4 Especiﬁcaciones del transformador de potencia**
+
+![image](https://user-images.githubusercontent.com/85134094/132527361-d511fcdf-65df-4d92-b0bf-db74cd9e974d.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527388-ba588282-9fbf-4f02-bb47-cff81c2b11db.png)
 
 19. El transformador de la ﬁgura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparasde 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de2400 W con Fp = 1.0, determine:
 
@@ -109,6 +126,12 @@ B)
 
 **23-6 Transformadores de núcleo de hierro prácticos**
 
+![image](https://user-images.githubusercontent.com/85134094/132527413-a36fe1cb-0bde-409b-8322-b636c235b87c.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527438-2c142d55-8ead-4a1d-902f-e10564268b35.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527534-796ddbba-7251-43ab-9b26-ff8e5a26c137.png)
+
 25. Para la ﬁgura 23-77, Eg = 1220 V ∠0°.
 
 ![image](https://user-images.githubusercontent.com/85134094/132510070-709c6909-83ef-436d-bf54-58b99a3b1711.png)
@@ -118,6 +141,12 @@ B)
 ![image](https://user-images.githubusercontent.com/85134094/132510099-14ad601a-ab37-4458-9bd3-04508c10872d.png)
 
 **23-9 Circuitos débilmente acoplados**
+
+![image](https://user-images.githubusercontent.com/85134094/132527568-6a6f4329-7a46-4c2e-aa48-b8fb6b7bbf14.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527585-8cd7acce-6b18-42da-ab5d-29734e6377c2.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527639-17b3625a-b673-414e-b94f-e0b2bec8fd22.png)
 
 31.  Para un conjunto de bobinas acopladas, L1 = 2H, M = 0.8H y el coeﬁciente de acoplamiento es de 0.6. Determine L2.
 
@@ -129,7 +158,17 @@ B)
 
 **23-10 Circuitos acoplados magnéticamente con excitación sinusoidal**
 
+![image](https://user-images.githubusercontent.com/85134094/132527683-b4826ff1-468b-4936-89bb-543f0fab868a.png)
 
+![image](https://user-images.githubusercontent.com/85134094/132527711-915fcb67-c0c1-4900-8f24-33463170f16f.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527736-a0261520-73d5-48ae-9a04-fcc136c14ed2.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527756-16c2ad69-6b36-4fdd-95b9-936ded5990d7.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527775-b13e4703-c8cc-463a-b64a-1f82d83599c8.png)
+
+![image](https://user-images.githubusercontent.com/85134094/132527797-b0282b22-f550-418f-96cb-fdc2e350ad57.png)
 
 
 **4. VIDEO**
