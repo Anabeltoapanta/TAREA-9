@@ -26,8 +26,14 @@ Ing. Darwin Omar Alulema Flores
 
 - Objetivo General
 
+Adquirir conocimientos acerca de como funciona un transformador individual y su comportamiento en un circuito
+
 
 - Objetivos específicos
+
+Calcular corrientes de un circuito con un transformador
+
+Describir el comportamiento de la forma de onda de voltaje y corriente
 
 
 **2. MARCO TEORICO**
