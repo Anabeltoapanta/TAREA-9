@@ -43,7 +43,7 @@ Objetivos específicos
 
 ![](https://github.com/Anabeltoapanta/TAREA-9/blob/main/MARCO%20TEORICO%2024_page-0001.jpg)
 
-![image](https://user-images.githubusercontent.com/85134094/132527971-61390904-77e9-4024-9395-8c3cf7ab04cd.png)
+![image](https://user-images.githubusercontent.com/85134094/132530601-53292104-533d-4939-9470-967e4e6b2689.png)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
@@ -184,13 +184,17 @@ B)
 
 **4. VIDEO**
 
-
+https://www.youtube.com/watch?v=8DYe0i3e2H4
 
 **5. CONCLUSIONES**
 
-* Se logro calcular potencia activa, potencia reactiva y potencia aparente en sistemas de tres fases ademas de poder describir la generación del voltaje que exite en tres fases
+* Como vimos en ambos capitulos los transformadores no son unicos si no que existen varios tipos y cada uno se calcula de una manera diferente.
+
+* En relacion a los fasores los calculos se pueden facilitar cuando estan en coordenas polares o cartesianas
 
 * Como podemos observar, a comparación de sistemas con una sola fase, su contra parte con 3 fases nos resulta mas factible y gasta menos recursos, llega a costar menos y tiene menos perdidas con vibraciones y ruido.
+
+* Se logro calcular potencia activa, potencia reactiva y potencia aparente en sistemas de tres fases ademas de poder describir la generación del voltaje que exite en tres fases
 
 **6. BIBLIOGRAFÍAS**
 
